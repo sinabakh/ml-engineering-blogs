@@ -50,5 +50,3 @@ A curated collection of direct links to Machine Learning and AI engineering blog
 - [Walmart](https://medium.com/walmartglobaltech/tagged/data-science)
 - [Wayfair](https://www.aboutwayfair.com/careers/tech-blog?q=&s=0&f0=00000178-3b97-d9a4-a37a-fbf7441c0000&f0=0000017b-63b6-d47e-adff-f7bfd6ba0000&f0=00000178-3b97-d9a4-a37a-fbf744d20000&f0=00000178-3b97-d9a4-a37a-fbf7460c0001&f0=0000017b-63b7-dad3-a3fb-7fb7466f0000&f0=0000017a-ed9d-df9d-a17e-fdbf992a0000&f0=0000017b-63b5-d47e-adff-f7bda4220000)
 - [Zalando](https://engineering.zalando.com/tags/machine-learning.html)
-- [Zendesk](https://medium.com/zendesk-engineering/data/home)
-- [Zillow](https://www.zillow.com/tech/ai-ml/)
